@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561758300246",
+    "project_id": "poultryvision-9ee86",
+    "storage_bucket": "poultryvision-9ee86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561758300246:android:b92770729540151a8373f7",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcJ6X8khjKl5ruix5qNMmMRdyzlPYLiMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
